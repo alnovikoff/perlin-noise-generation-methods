@@ -7,3 +7,6 @@ List of implemented noises:
 - marble
 
 You can implement gradient on your own
+
+Showcase:
+![noises](https://github.com/alnovikoff/perlin-noise-generation-methods/blob/main/img/showcase.jpg?raw=true)
